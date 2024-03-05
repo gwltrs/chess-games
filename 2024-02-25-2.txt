@@ -1,0 +1,11 @@
+[Event "2024 Music City Open"]
+[Date "2024.02.25"]
+[Round "2"]
+[White "Gregory Walters"]
+[Black "Grayson Wilcox"]
+[Result "0-1"]
+[WhiteElo "1530"]
+[BlackElo "1617"]
+[TimeControl "90+30"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Be2 O-O 8. Nf3 Re8 9. Be3 Bf5 10. O-O h6 11. Re1 Nd7 12. Qb3 Qc7 13. h3 a5 14. a4 Nf8 15. Rad1 Rad8 16. d5 cxd5 17. Bb6 Bc2 18. Qb5 Bxa4 19. Bxc7 Bxb5 20. Bxd8 Rxe2 21. Rxe2 Bxe2 22. Rxd5 Bxf3 23. Rxd6 Bc6 24. Bxa5 Ne6 25. Bb6 Kf8 26. f3 Ke7 27. Rd2 Ng5 28. Kf2 Ne6 29. Ke3 f5 30. f4 f6 31. h4 g5 32. hxg5 fxg5 33. g3 gxf4+ 34. gxf4 Kf6 35. Rh2 Kg6 36. Bd4 Bd5 37. Be5 b5 38. Kd3 Bb3 39. Ke3 Bc4 40. Rd2 h5 41. Rh2 Bd5 42. Kd2 Bb3 43. Rh1 Bd5 44. Rg1+ Kh6 45. Kc2 h4 46. Rd1 Be4+ 47. Kc1 h3 48. Rd2 Bg2 49. Rxg2 hxg2 50. Bd4 Nxd4
