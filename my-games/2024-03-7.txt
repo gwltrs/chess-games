@@ -1,0 +1,10 @@
+[Event "Chess.com"]
+[Date "2024.03.7"]
+[White "wjjjjjjjjjjj"]
+[Black "waltersge1"]
+[Result "1-0"]
+[WhiteElo "1877"]
+[BlackElo "1703"]
+[TimeControl "15+10"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. Nc3 a6 {or 5... Bf5 6. Nb5 Rc8} 6. Nf3 Bg4 7. Be2 Nf6 {or 7... Bxf3 8. Bxf3 e6} 8. Ne5 Bxe2 9. Nxe2 Nxe5 {9... e6 has to be played first in light of 10. dxe5 Ne4 11. e6} 10. Bxe5 e6 11. c3 Be7 12. O-O O-O 13. Qd3 Re8 {13... b5, 14... Qb6 justifies 5... a6 and starts Queen side counterplay.} 14. Rfe1 Ne4 {Here I shouldn't eagerly trade my minor pieces as they are better defenders than heavy pieces.} 15. Ng3 Nxg3 16. Qxg3 Bf6 17. Re3 Bxe5 18. Qxe5 Rc8 {I wanted to play 18... Qf6, but I was afraid of 19. Qc7, not considering the simple 19... Qe7.} 19. Rg3 g6 {Best was 19...f6, but I discounted it in light of the pin, not realizing the Queen guards it.} 20. Re1 Qc7 21. Qf6 Qe7 22. Qf4 Kg7 23. Rh3 Rh8 {While 23... h5 is weakening, it's preferable to putting the Rook on defense duty.} 24. Qh6+ Kg8 25. Ree3 Qf6 26. Rhf3 Qxd4 27. h4 Qg7 {I think 27... Qg4 offers better practical chances.} 28. Qg5 h6 29. Qe7 Kh7 30. Rxf7 {My biggest mistake was not starting counterplay on the Queen side. I overestimate my defensive skills and underestimate the practical, psychological value of having the initiative.}
