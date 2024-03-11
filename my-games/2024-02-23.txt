@@ -1,0 +1,10 @@
+[Event "2024 Music City Open"]
+[Date "2024.02.23"]
+[White "Steven Morford"]
+[Black "Gregory Walters"]
+[Result "0-1"]
+[WhiteElo "1700"]
+[BlackElo "1530"]
+[TimeControl "90+30"]
+
+{A messy win where he had many chances to blow me off the board.} 1. e4 e6 2. d3 d5 3. Nd2 Nf6 {I'm not afraid of 4. e5 as that leads us into a worse Steinitz Classical French with d3/Nd2 instead of d4/Nc3.} 4. Ngf3 Be7 5. g3 O-O 6. Bg2 c5 7. O-O Nc6 8. Re1 Re8 {The Rook doesn't belong on the e file unless White makes the mistake of exd5.} 9. c3 Qb6 {8... b5 is the better way to start play on the Queen side.} 10. Nf1 d4 11. e5 Nd7 12. c4 Bd8 13. b3 Bc7 14. Bf4 a5 15. h4 Qa7 {15... a4 is the last chance to make play on the Queen side. I played 15... Qa7 because I thought I'd have enough pieces to take the pawn after 16.. Qb8. Optically, it looks like I can take the pawn because it looks like the Queen will be captured by one of my minor pieces. Thus I thought that 15... Qa7 threatened both 16... a4 and the capture of the pawn.} 16. a4 Qb8 {I almost captured the pawn! I stopped myself at the last moment after calculating.} 17. Qe2 b6 {A blunder. Best is 17... f6 18. exf6 Bxf4} 18. Bh3 {18. Ng5 is crushing. Either 18... Bb7 19. Qh5 or 18... h6 19 Bxc6} Bb7 19. N1h2 Nf8 20. h5 Ne7 21. Ng4 Nf5 22. h6 Bd8 23. hxg7 Ng6 24. Bd2 Kxg7 25. Nf6 Bxf6 26. exf6+ Kxf6 27. Ng5 Kg7 {27... h6 has to be played.} 28. Qh5 h6 29. Bxf5 {29. Nxe6+ is winning.} exf5 {A blunder. 29... hxg5 30. Bxg6 Rh8 is winning.} 30. Nh3 {30. Nxf7 Kxf7 31. Qxf4+ Kg7 32. Qd7+ Kh8 33. Bxh6 is winning.} Rh8 31. Qxf5 Qd6 32. Nf4 Nxf4 33. Bxf4 Qc6 34. Re4 Rhe8 {34... Rhg8 only good move.} 35. f3 {35. Be5+ is winning.} Qg6 36. Rxe8 Qxf5 37. Be5+ f6 38. Re7+ Kg6
